@@ -1,7 +1,7 @@
-# Hi there 👋
+# Hi there 👋 I'm Emanuel
 
 ### About Me:
-My name is Emanuel
+I'm currently exploring building applications in the cloud (AWS specifically).
 
 ### Languages and Tools:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="80" height="80"></td>
