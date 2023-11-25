@@ -6,19 +6,19 @@ I'm currently exploring building applications in the cloud (AWS specifically). A
 ## Skills:
 
 ### Certifications:
-<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/" target="_blank"><img src="https://github.com/meagle21/meagle21/blob/0612e0791758156fcf8dcc4de04a95e18fcc7403/aws-certified-cloud-practitioner.png" width="80" height="80"></img></a>
+<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/"><img src="https://github.com/meagle21/meagle21/blob/0612e0791758156fcf8dcc4de04a95e18fcc7403/aws-certified-cloud-practitioner.png" width="80" height="80"></img></a>
 
 
 ### Programming Languages:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="80" height="80"></img>
-<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" width="80" height="80"></img>
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/182px-Java_programming_language_logo.svg.png" width="80" height="80"></img>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png" width="80" height="80"></img>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="80" height="80">
-<img src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" width="80" height="80"></img>
-<img src="https://serkonda7.gallerycdn.vsassets.io/extensions/serkonda7/vscode-vba/0.9.3/1695545193901/Microsoft.VisualStudio.Services.Icons.Default" width="80" height="80"></img>
-<img src="https://cdn-icons-png.flaticon.com/512/28/28788.png" width="80" height="80"></img>
+<a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="80" height="80"></img>
+<a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" width="80" height="80"></img>
+<a href="https://www.java.com/en/"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/182px-Java_programming_language_logo.svg.png" width="80" height="80"></img>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png" width="80" height="80"></img>
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="80" height="80">
+<a href="https://www.w3schools.com/sql/sql_intro.asp"><img src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" width="80" height="80"></img>
+<a href="https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office"><img src="https://serkonda7.gallerycdn.vsassets.io/extensions/serkonda7/vscode-vba/0.9.3/1695545193901/Microsoft.VisualStudio.Services.Icons.Default" width="80" height="80"></img>
+<a href="https://en.wikipedia.org/wiki/Batch_file"><img src="https://cdn-icons-png.flaticon.com/512/28/28788.png" width="80" height="80"></img>
 
 
 ### Tools/Services:
