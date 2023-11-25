@@ -2,7 +2,6 @@
 
 ### About Me:
 I'm currently exploring building applications in the cloud (AWS specifically). At the moment I'm learning about AWS services and how to develop well architected, resilient, cloud native applications. I have a width breadth of experience ranging from implementing machine learning models for environmental applications to supporting financial technology applications.
-AWS Cloud Certified: https://www.credly.com/badges/d9325717-ef21-4089-8e2d-dcf7dd84773f/public_url
 
 ### Languages and Tools:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="80" height="80"></td>
