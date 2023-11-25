@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Emanuel
+# Hi there I'm Emanuel 👋 
 
 ## About Me:
 I'm currently exploring building applications in the cloud (AWS specifically). At the moment I'm learning about AWS services and how to develop well architected, resilient, cloud native applications. I have a width breadth of experience ranging from implementing machine learning models for environmental applications to supporting financial technology applications.
