@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Emanuel
 
 ### About Me:
-I'm currently exploring building applications in the cloud (AWS specifically).
+I'm currently exploring building applications in the cloud (AWS specifically). At the moment I'm learning about AWS services and how to develop well architected, resilient, cloud native applications. 
 
 ### Languages and Tools:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="80" height="80"></td>
