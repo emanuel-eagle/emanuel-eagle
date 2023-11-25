@@ -18,3 +18,4 @@ I'm currently exploring building applications in the cloud (AWS specifically). A
 <img src="https://tysonbarrett.com/introR/Figures/RStudio_logo.png" width="80" height="80"></img>\
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" width="80" height="80"></img>
 <img src="https://geopandas.org/en/stable/_images/geopandas_icon.png" width="80" height="80"></img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="80" height="80"></img>
