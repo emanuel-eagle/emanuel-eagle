@@ -15,9 +15,11 @@ I'm currently exploring building applications in the cloud (AWS specifically). A
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/182px-Java_programming_language_logo.svg.png" width="80" height="80"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png" width="80" height="80"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="80" height="80">
-<img src="https://cpl.thalesgroup.com/sites/default/files/inline-images/microsoft-sql_server.png" width="80" height="80"></img>
+<img src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" width="80" height="80"></img>
 <img src="https://serkonda7.gallerycdn.vsassets.io/extensions/serkonda7/vscode-vba/0.9.3/1695545193901/Microsoft.VisualStudio.Services.Icons.Default" width="80" height="80"></img>
 <img src="https://cdn-icons-png.flaticon.com/512/28/28788.png" width="80" height="80"></img>
+
+
 ### Tools:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/800px-ArcGIS_logo.png" width="80" height="80"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Arduino_IDE_logo.svg/2048px-Arduino_IDE_logo.svg.png" width="80" height="80"></img>
