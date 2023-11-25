@@ -13,3 +13,6 @@ AWS Cloud Certified: https://www.credly.com/badges/d9325717-ef21-4089-8e2d-dcf7d
 <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" width="80" height="80"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="80" height="80"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2580px-Amazon_Web_Services_Logo.svg.png" width="80" height="80"></img>
+
+### Certifications:
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d9325717-ef21-4089-8e2d-dcf7dd84773f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
