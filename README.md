@@ -24,5 +24,6 @@ I'm currently exploring building applications in the cloud (AWS specifically). A
   <td><img src="https://geopandas.org/en/stable/_images/geopandas_icon.png" width="80" height="80"></img></td>
   <td><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="80" height="80"></img></td>
   <td><img src="https://github.com/scikit-learn/scikit-learn/blob/94f0d6aa7b2d3bdc3d60507daca9b83c7e8b7633/doc/logos/scikit-learn-logo.png" width="80" height="80"></img></td>
+  <td><img src = "https://emaillistvalidation.com/blog/content/images/2023/10/png-clipart-visual-basic-for-applications-microsoft-excel-macro-microsoft-angle-logo.png" width="80" height="80"></img></td>
   </tr>
 </table>
