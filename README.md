@@ -6,7 +6,8 @@ I'm currently exploring building applications in the cloud (AWS specifically). A
 ## Skills:
 
 ### Certifications:
-<img src="https://github.com/meagle21/meagle21/blob/0612e0791758156fcf8dcc4de04a95e18fcc7403/aws-certified-cloud-practitioner.png" width="80" height="80"></img>
+<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/"><img src="https://github.com/meagle21/meagle21/blob/0612e0791758156fcf8dcc4de04a95e18fcc7403/aws-certified-cloud-practitioner.png" width="80" height="80"></img></a>
+
 
 ### Programming Languages:
 
