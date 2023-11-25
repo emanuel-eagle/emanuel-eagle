@@ -24,7 +24,7 @@ I'm currently exploring building applications in the cloud (AWS specifically). A
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="80" height="80"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/1200px-QGIS_logo_new.svg.png" width="80" height="80"></img>
 <img src="https://tysonbarrett.com/introR/Figures/RStudio_logo.png" width="80" height="80"></img>
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="80" height="80"></img>
 
 ### Packages/Libraries:
 <img src="https://python.gotrained.com/wp-content/uploads/2019/02/boto3.png" width="80" height="80"></img>
