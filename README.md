@@ -2,11 +2,6 @@
 
 ## About Me:
 I'm currently exploring building applications in the cloud (AWS specifically). At the moment I'm learning about AWS services and how to develop well architected, resilient, cloud native applications. I have a width breadth of experience ranging from implementing machine learning models for environmental applications to supporting financial technology applications.
-<h3>Some of my interests:</h3>
-<p float="left">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-aws-3215369-2673787.png" width="40" height="40"></img>
-  <img src="https://www.lifewire.com/thmb/TXVRTtkHvRpTjnRObQ3xm2VlsD0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/WirelessNetwork-5994852003f4020011db5333.jpg" width="40" height="40"></img>
-</p>
 
 ## Skills:
 
