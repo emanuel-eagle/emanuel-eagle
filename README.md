@@ -9,4 +9,4 @@ My name is Emanuel
 <img src="https://cpl.thalesgroup.com/sites/default/files/inline-images/microsoft-sql_server.png" width="60" height="60"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Arduino_IDE_logo.svg/2048px-Arduino_IDE_logo.svg.png" width="60" height="60"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png" width="60" height="60"></img>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png" width="60" height="60"></img>
+<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" width="60" height="60"></img>
