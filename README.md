@@ -10,8 +10,6 @@ I'm currently exploring building applications in the cloud (AWS specifically). A
 <img src="https://cpl.thalesgroup.com/sites/default/files/inline-images/microsoft-sql_server.png" width="80" height="80"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Arduino_IDE_logo.svg/2048px-Arduino_IDE_logo.svg.png" width="80" height="80"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png" width="80" height="80"></img>
-</p>
-<p float="left">
 <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" width="80" height="80"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="80" height="80"></img>
 <img src="https://github.com/meagle21/meagle21/blob/0612e0791758156fcf8dcc4de04a95e18fcc7403/aws-certified-cloud-practitioner.png" width="80" height="80"></img>
