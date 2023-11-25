@@ -23,5 +23,5 @@ I'm currently exploring building applications in the cloud (AWS specifically). A
 <img src="https://geopandas.org/en/stable/_images/geopandas_icon.png" width="80" height="80"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="80" height="80"></img>
 <img src="https://github.com/scikit-learn/scikit-learn/blob/94f0d6aa7b2d3bdc3d60507daca9b83c7e8b7633/doc/logos/scikit-learn-logo.png" width="80" height="80"></img>
-<img src = "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/217172597/original/e33d1b36ec7ea64cb11298c1c7ccd5d3402c9640/help-you-create-a-vba-script-in-microsoft-access.jpg" width="80" height="80"></img>
+<img src = "https://static-00.iconduck.com/assets.00/file-type-vba-icon-512x286-atniaiws.png)https://static-00.iconduck.com/assets.00/file-type-vba-icon-512x286-atniaiws.png" width="80" height="80"></img>
 </p>
