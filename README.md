@@ -4,8 +4,7 @@
 I'm currently exploring building applications in the cloud (AWS specifically). At the moment I'm learning about AWS services and how to develop well architected, resilient, cloud native applications. I have a width breadth of experience ranging from implementing machine learning models for environmental applications to supporting financial technology applications.
 
 ### Languages and Tools:
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"
-  href = "https://www.python.org/" width="80" height="80"></td>
+<a target="_blank" href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="80" height="80"></td>
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/182px-Java_programming_language_logo.svg.png" width="80" height="80"></img> 
 <img src="https://cpl.thalesgroup.com/sites/default/files/inline-images/microsoft-sql_server.png" width="80" height="80"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Arduino_IDE_logo.svg/2048px-Arduino_IDE_logo.svg.png" width="80" height="80"></img>
