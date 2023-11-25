@@ -11,3 +11,4 @@ My name is Emanuel
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png" width="60" height="60"></img>
 <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" width="60" height="60"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="60" height="60"></img>
+<img src="https://www.jdrf.org/wp-content/uploads/2020/12/AWS-logo-2.jpg" width="60" height="60"></img>
