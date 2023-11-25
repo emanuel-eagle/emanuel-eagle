@@ -4,6 +4,10 @@
 I'm currently exploring building applications in the cloud (AWS specifically). At the moment I'm learning about AWS services and how to develop well architected, resilient, cloud native applications. I have a width breadth of experience ranging from implementing machine learning models for environmental applications to supporting financial technology applications.
 
 ## Skills:
+
+### Certifications:
+<img src="https://github.com/meagle21/meagle21/blob/0612e0791758156fcf8dcc4de04a95e18fcc7403/aws-certified-cloud-practitioner.png" width="80" height="80"></img>
+
 ### Programming Languages:
 <p float="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="80" height="80">
@@ -26,9 +30,6 @@ I'm currently exploring building applications in the cloud (AWS specifically). A
 <img src="https://python.gotrained.com/wp-content/uploads/2019/02/boto3.png" width="80" height="80"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" width="80" height="80"></img>
 <img src="https://github.com/scikit-learn/scikit-learn/blob/94f0d6aa7b2d3bdc3d60507daca9b83c7e8b7633/doc/logos/scikit-learn-logo.png" width="80" height="80"></img>
-
-### Certifications:
-<img src="https://github.com/meagle21/meagle21/blob/0612e0791758156fcf8dcc4de04a95e18fcc7403/aws-certified-cloud-practitioner.png" width="80" height="80"></img>
 
 ### Operating Systems:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg/2321px-Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg.png" width="80" height="80"></img>
