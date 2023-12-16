@@ -29,7 +29,7 @@ I'm currently exploring building applications in the cloud (AWS specifically). A
 <a href="https://www.mathworks.com/products/matlab.html"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="80" height="80"></img>
 <a href="https://qgis.org/en/site/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/1200px-QGIS_logo_new.svg.png" width="80" height="80"></img>
 <a href="https://posit.co/download/rstudio-desktop/"><img src="https://tysonbarrett.com/introR/Figures/RStudio_logo.png" width="80" height="80"></img>
-<a href="https://aws.amazon.com/s3/"><img src = "https://cdn.worldvectorlogo.com/logos/amazon-s3-simple-storage-service.svg" width="80" height="80"></img>
+<a href="https://aws.amazon.com/s3/"><img src = "https://cdn.worldvectorlogo.com/logos/amazon-s3-simple-storage-service.svg" width="80" height="80"></img><br>
 <a href="https://aws.amazon.com/lambda/"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/1200px-Amazon_Lambda_architecture_logo.svg.png" width="80" height="80"></img>
 <a href="https://aws.amazon.com/eventbridge/"><img src = "https://coralogix.com/wp-content/uploads/2022/08/EventBridge_small.svg" width="80" height="80"></img>
 <a href="https://aws.amazon.com/route53/"><img src ="https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2020/08/12/Screen-Shot-2020-08-12-at-9.51.17-AM.png" width="80" height="80"></img>
