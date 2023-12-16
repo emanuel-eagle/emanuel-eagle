@@ -11,8 +11,6 @@ I'm currently exploring building applications in the cloud (AWS specifically). A
 
 ### Programming Languages:
 
-<a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="80" height="80"></img>
-<a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" width="80" height="80"></img>
 <a href="https://www.java.com/en/"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/182px-Java_programming_language_logo.svg.png" width="80" height="80"></img>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png" width="80" height="80"></img>
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="80" height="80">
@@ -22,6 +20,7 @@ I'm currently exploring building applications in the cloud (AWS specifically). A
 
 
 ### Tools/Services:
+
 <a href="https://www.arcgis.com/index.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/800px-ArcGIS_logo.png" width="80" height="80"></img>
 <a href="https://www.arduino.cc/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Arduino_IDE_logo.svg/2048px-Arduino_IDE_logo.svg.png" width="80" height="80"></img>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="80" height="80"></img>
@@ -34,6 +33,8 @@ I'm currently exploring building applications in the cloud (AWS specifically). A
 <a href="https://aws.amazon.com/eventbridge/"><img src = "https://coralogix.com/wp-content/uploads/2022/08/EventBridge_small.svg" width="80" height="80"></img>
 <a href="https://aws.amazon.com/route53/"><img src ="https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2020/08/12/Screen-Shot-2020-08-12-at-9.51.17-AM.png" width="80" height="80"></img>
 <a href= "https://aws.amazon.com/ses/"><img src = "https://help.sumologic.com/img/integrations/amazon-aws/ses.png" width="80" height="80"></img>
+<a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="80" height="80"></img>
+<a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" width="80" height="80"></img>
 
 ### Packages/Libraries:
 <a href="https://boto3.amazonaws.com/v1/documentation/api/latest/index.html"><img src="https://python.gotrained.com/wp-content/uploads/2019/02/boto3.png" width="80" height="80"></img>
