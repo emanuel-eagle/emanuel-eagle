@@ -33,6 +33,8 @@ I'm currently exploring building applications in the cloud (AWS specifically). A
 ### Cloud Services:
 <a href="https://aws.amazon.com/s3/"><img src = "https://cdn.worldvectorlogo.com/logos/amazon-s3-simple-storage-service.svg" width="80" height="80"></img>
 <a href="https://aws.amazon.com/lambda/"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/1200px-Amazon_Lambda_architecture_logo.svg.png" width="80" height="80"></img>
+<a href="https://aws.amazon.com/eventbridge/"><img src = "https://coralogix.com/wp-content/uploads/2022/08/EventBridge_small.svg" width="80" height="80"></img>
+<a href="https://aws.amazon.com/route53/"><img src ="https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2020/08/12/Screen-Shot-2020-08-12-at-9.51.17-AM.png" width="80" height="80"></img>
 
 ### Packages/Libraries:
 <a href="https://boto3.amazonaws.com/v1/documentation/api/latest/index.html"><img src="https://python.gotrained.com/wp-content/uploads/2019/02/boto3.png" width="80" height="80"></img>
