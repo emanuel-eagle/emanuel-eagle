@@ -31,8 +31,8 @@ I'm currently exploring building applications in the cloud (AWS specifically). A
 <a href="https://posit.co/download/rstudio-desktop/"><img src="https://tysonbarrett.com/introR/Figures/RStudio_logo.png" width="80" height="80"></img>
 
 ### Cloud Services:
-<a href="https://aws.amazon.com/s3/"><img src = "https://cdn.worldvectorlogo.com/logos/amazon-s3-simple-storage-service.svg" width="100" height="80"></img>
-<a href="https://aws.amazon.com/lambda/"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/1200px-Amazon_Lambda_architecture_logo.svg.png" width="100" height="80"></img>
+<a href="https://aws.amazon.com/s3/"><img src = "https://cdn.worldvectorlogo.com/logos/amazon-s3-simple-storage-service.svg" width="80" height="80"></img>
+<a href="https://aws.amazon.com/lambda/"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/1200px-Amazon_Lambda_architecture_logo.svg.png" width="80" height="80"></img>
 
 ### Packages/Libraries:
 <a href="https://boto3.amazonaws.com/v1/documentation/api/latest/index.html"><img src="https://python.gotrained.com/wp-content/uploads/2019/02/boto3.png" width="80" height="80"></img>
