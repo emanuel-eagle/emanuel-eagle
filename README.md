@@ -28,7 +28,9 @@ I'm currently exploring building applications in the cloud (AWS specifically). A
 <a href="https://aws.amazon.com/iam/"><img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/aws-cloud-security/control-access-with-aws-identity-and-access-management/images/3d5ecfeab35e8dfc1eb781f7880fafc9_99-c-15-ccc-fe-5-e-4-d-8-f-bcfc-193197-b-9-dc-7-b.png" width="80" height="80">
 <a href="https://qgis.org/en/site/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/1200px-QGIS_logo_new.svg.png" width="80" height="80"></img>
 <a href="https://aws.amazon.com/s3/"><img src = "https://cdn.worldvectorlogo.com/logos/amazon-s3-simple-storage-service.svg" width="80" height="80"></img>
-<a href="https://www.terraform.io/"><img src="https://www.aviator.co/blog/wp-content/uploads/2023/01/terraform.png" width="80" height="80"></img><br>
+<a href="https://www.terraform.io/"><img src="https://www.aviator.co/blog/wp-content/uploads/2023/01/terraform.png" width="80" height="80"></img>
+<a href="https://www.git-scm.com/"><img src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" width="80" height="80"></img>
+<br>
 <a href="https://aws.amazon.com/lambda/"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/1200px-Amazon_Lambda_architecture_logo.svg.png" width="80" height="80"></img>
 <a href="https://aws.amazon.com/eventbridge/"><img src = "https://coralogix.com/wp-content/uploads/2022/08/EventBridge_small.svg" width="80" height="80"></img>
 <a href="https://aws.amazon.com/route53/"><img src ="https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2020/08/12/Screen-Shot-2020-08-12-at-9.51.17-AM.png" width="80" height="80"></img>
@@ -38,7 +40,6 @@ I'm currently exploring building applications in the cloud (AWS specifically). A
 <a href="https://aws.amazon.com/ec2/"><img src="https://www.logicata.com/wp-content/uploads/2020/08/Amazon-EC2@4x-e1593195270371.png.webp" width="80" height="80"></img>
 <a href="https://www.json.org/json-en.html"><img src="https://www.json.org/img/json160.gif" width="80" height="80"></img>
 <a href="https://www.docker.com/"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" width="80" height="80"></img>
-<a href="https://www.git-scm.com/"><img src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" width="80" height="80"></img>
 
 
 ### Packages/Libraries:
