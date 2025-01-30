@@ -19,7 +19,7 @@ I'm currently exploring building applications in the cloud (AWS specifically). A
 <a href="https://en.wikipedia.org/wiki/Batch_file"><img src="https://cdn-icons-png.flaticon.com/512/28/28788.png" width="80" height="80"></img>
 <a href="https://www.mathworks.com/products/matlab.html"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="80" height="80"></img>
 <a href="https://posit.co/download/rstudio-desktop/"><img src="https://tysonbarrett.com/introR/Figures/RStudio_logo.png" width="80" height="80"></img>
-<a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/322px-Go_Logo_Blue.svg.png" width="80" height="80"></img>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/322px-Go_Logo_Blue.svg.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/322px-Go_Logo_Blue.svg.png" width="80" height="80"></img>
 ### Tools/Services:
 
 <a href="https://www.arcgis.com/index.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/800px-ArcGIS_logo.png" width="80" height="80"></img>
