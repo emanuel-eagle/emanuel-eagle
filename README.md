@@ -1,7 +1,7 @@
 # Hi there I'm Emanuel 👋 
 
 ## About Me:
-I'm currently exploring building applications in the cloud (AWS specifically). At the moment I'm learning about AWS services and how to develop well architected, resilient, cloud native applications. I have a width breadth of experience ranging from implementing machine learning models from environmental data to supporting financial technology applications.
+I'm a cloud engineer with a strong interest in cloud computing applications for financial technology, bioinformatics, computational environmental sciences and geographic information systems. I have experience in the financial technology sector and I am interested in getting involved in my spare time in start-up environments in any industry. I focus on the development of cost-effective, well-architected, cloud-native solutions. I have a passion for developing effective cloud platforms that can derive value for companies and/or society. 
 
 ## Skills:
 
@@ -19,7 +19,8 @@ I'm currently exploring building applications in the cloud (AWS specifically). A
 <a href="https://en.wikipedia.org/wiki/Batch_file"><img src="https://cdn-icons-png.flaticon.com/512/28/28788.png" width="80" height="80"></img>
 <a href="https://www.mathworks.com/products/matlab.html"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="80" height="80"></img>
 <a href="https://posit.co/download/rstudio-desktop/"><img src="https://tysonbarrett.com/introR/Figures/RStudio_logo.png" width="80" height="80"></img>
-<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/322px-Go_Logo_Blue.svg.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/322px-Go_Logo_Blue.svg.png" width="80" height="80"></img>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/322px-Go_Logo_Blue.svg.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/322px-Go_Logo_Blue.svg.png" width="100" height="80"></img>
+
 ### Tools/Services:
 
 <a href="https://www.arcgis.com/index.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/800px-ArcGIS_logo.png" width="80" height="80"></img>
