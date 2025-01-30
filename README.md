@@ -19,7 +19,7 @@ I'm a cloud engineer with a strong interest in cloud computing applications for 
 <a href="https://en.wikipedia.org/wiki/Batch_file"><img src="https://cdn-icons-png.flaticon.com/512/28/28788.png" width="80" height="80"></img>
 <a href="https://www.mathworks.com/products/matlab.html"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="80" height="80"></img>
 <a href="https://posit.co/download/rstudio-desktop/"><img src="https://tysonbarrett.com/introR/Figures/RStudio_logo.png" width="80" height="80"></img>
-<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/322px-Go_Logo_Blue.svg.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/322px-Go_Logo_Blue.svg.png" width="100" height="80"></img>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/322px-Go_Logo_Blue.svg.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/322px-Go_Logo_Blue.svg.png" width="110" height="80"></img>
 
 ### Tools/Services:
 
@@ -41,13 +41,6 @@ I'm a cloud engineer with a strong interest in cloud computing applications for 
 <a href="https://aws.amazon.com/ec2/"><img src="https://www.logicata.com/wp-content/uploads/2020/08/Amazon-EC2@4x-e1593195270371.png.webp" width="80" height="80"></img>
 <a href="https://www.json.org/json-en.html"><img src="https://www.json.org/img/json160.gif" width="80" height="80"></img>
 <a href="https://www.docker.com/"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" width="80" height="80"></img>
-
-
-### Packages/Libraries:
-<a href="https://boto3.amazonaws.com/v1/documentation/api/latest/index.html"><img src="https://python.gotrained.com/wp-content/uploads/2019/02/boto3.png" width="80" height="80"></img>
-<a href="https://geopandas.org/en/stable/"><img src="https://geopandas.org/en/stable/_images/geopandas_icon.png" width="80" height="80"></img>
-<a href="https://pandas.pydata.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" width="80" height="80"></img>
-<a href="https://scikit-learn.org/stable/"><img src="https://github.com/scikit-learn/scikit-learn/blob/94f0d6aa7b2d3bdc3d60507daca9b83c7e8b7633/doc/logos/scikit-learn-logo.png" width="80" height="80"></img>
 
 ### Operating Systems:
 <a href="https://www.linux.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="80" height="80"></img>
