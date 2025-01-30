@@ -1,7 +1,7 @@
 # Hi there I'm Emanuel 👋 
 
 ## About Me:
-I'm a cloud engineer with a strong interest in cloud computing applications for financial technology, bioinformatics, computational environmental sciences and geographic information systems. I have experience in the financial technology sector and I am interested in getting involved in my spare time in start-up environments in any industry. I focus on the development of cost-effective, well-architected, cloud-native solutions. I have a passion for developing effective cloud platforms that can derive value for companies and/or society. 
+I'm a cloud engineer with a strong interest in cloud computing applications for financial technology, bioinformatics, computational environmental sciences and geographic information systems. I have experience in the financial technology sector and I am interested in getting involved in my spare time in start-up environments in any industry. In particular my focus has been Site Reliability Engineering, DevOps, and FinOps, however I am interested in getting involved in more full-stack development. I focus on the development of cost-effective, well-architected, cloud-native solutions. I have a passion for developing effective cloud platforms that can derive value for companies and/or society. 
 
 ## Skills:
 
